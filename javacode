@@ -4,5 +4,6 @@ my first java program
     psv main[]
     {
       sysout("hi java");
+      sysout("hi branch1");
     }
   }
