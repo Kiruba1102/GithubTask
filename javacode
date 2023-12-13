@@ -1,0 +1,8 @@
+my first java program
+  class java
+  {
+    psv main[]
+    {
+      sysout("hi java");
+    }
+  }
